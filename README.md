@@ -25,4 +25,3 @@
 -Able to create,update,delete  and read posts</br>
 -created an upload route,so that we can upload Images & store it in Server
 
-![alt text](C:\Users\HP\Desktop\blog.jpg)
